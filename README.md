@@ -5,6 +5,8 @@ Tutorial:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Baixe e Extraia o Github.rar
+
 Abra o arquivo Flask Teste2.py no VisualStudioCode e comece a hostear a API
 
 Para fazer alterações nos modelos, motores, marcas, e velocidade, abra o Postman e use o link do host + /carros
